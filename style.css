@@ -1,3 +1,6 @@
+.body{
+    font-family: Poppins;
+}
 .signin{
     border-radius: 20px;
     padding-right: 20px !important;
@@ -22,4 +25,35 @@
 }
 .top-bg, nav{
     background-color: #F0FFF0;
+}
+.images{
+    width: 66px;
+    height: 85px;
+    margin-left: 100px;
+    
+}
+.course-item-1{
+    background-color: #F8FFFB;
+    border-radius: 20px;
+}
+.course-item-2{
+    background-color: #FFFFFF;
+    box-shadow: 5px 5px 10px grey;
+    border-radius: 20px;
+    
+}
+.course-item-3{
+    background-color: #F8FFFB;
+    border-radius: 20px;
+}
+.course-item-4{
+    background-color: #F8FFFB;
+    border-radius: 20px;
+}
+.h4, h4 {
+    font-size: 1.5rem;
+    text-align: center;
+}
+.learn{
+    text-align: center;
 }
