@@ -1,0 +1,25 @@
+.signin{
+    border-radius: 20px;
+    padding-right: 20px !important;
+    padding-left: 20px !important;
+}
+.logo{
+    width: 198.07px;
+    height: 59px;
+}
+.ml-auto li{
+    padding-right: 30px;
+}
+.ml-auto li a{
+    
+    color:black;
+}
+.ml-auto li:last-child{
+    padding-right: 0px;
+}
+.fast-content h1{
+    font-size: 48px;
+}
+.top-bg, nav{
+    background-color: #F0FFF0;
+}
