@@ -1,4 +1,4 @@
-.body{
+body{
     font-family: 'Poppins', sans-serif;
 }
 .signin{
@@ -55,5 +55,22 @@
     text-align: center;
 }
 .learn{
+    text-align: center;
+}
+.footer-bg{
+    background-color: black;
+    color: white;
+}
+.list-sts ul li{
+    list-style: none;
+}
+.list-sts h5{
+    text-align: center;
+}
+.link a{
+    color:white;
+    text-decoration: none;
+}
+footer{
     text-align: center;
 }
